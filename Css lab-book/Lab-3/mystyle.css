@@ -1,0 +1,30 @@
+h1
+{
+	font-family: calibri;
+	font-size: 30px;
+	font-style: normal;
+	
+	color: #D3D3D3;
+	text-decoration: underline;
+	text-align: center;
+        text-transform: uppercase;
+}
+
+p
+{
+	font-family: verdana;
+	font-size: 20px;
+	
+	text-transform: lowercase;
+        text-indent: 30%;
+	color: #0066FF;
+}	
+.para_class {
+  font-color: yellow;
+	font-style: italic;
+font-weight: bold;
+}
+.div_class {
+font-style: italic;
+text-decoration: underline;
+}
